@@ -1,0 +1,38 @@
+
+
+.page-footer {
+  padding-bottom: 30px;
+}
+
+.footer-left {
+  width: 635px;
+  float: left;
+  padding-top: 10px;
+}
+
+.footer-right {
+  width: 345px;
+  float: right;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page-copyright {
+  color: #bbb;
+  font-size: 14px;
+}
+
+.footer-logo {
+  color: #bbb;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.footer-logo span {
+  font-weight: bold;
+}
+
+.icons-list-el {
+  display: inline-block;
+}
