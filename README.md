@@ -2,7 +2,7 @@
 
 Furniture shop's website.
 
-Demo version of this site can be seen here: https://surmia.github.io/Sit-On-Chair/
+Demo version can be seen here: https://surmia.github.io/Sit-On-Chair/
 
 ## Functionalities:
 
@@ -11,10 +11,14 @@ Demo version of this site can be seen here: https://surmia.github.io/Sit-On-Chai
 * Highlighted subscription plan on 'mouseover' event
 * Cost calculator
 
-## Technologies:
+## Technologies used:
 
 * HTML5
 * CSS3
 * JavaScript
 * Sass
 * Gulp
+
+## Preview:
+
+![SitOnChair](images/sitonchair.jpg)
